@@ -43,7 +43,7 @@ source = st.sidebar.selectbox( "Pilih Sumber Gambar ", ('Upload', 'Webcam') )
 if source == 'Webcam':
     captured_image = webcam()
 elif source == 'Upload':
-    file = st.file_uploader("Upload Gambar disini")
+    file = st.file_uploader("Upload Gambar Disini")
     if file is not None:
         captured_image = Image.open(file)
     else :
