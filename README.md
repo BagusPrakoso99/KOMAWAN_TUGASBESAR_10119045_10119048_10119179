@@ -16,3 +16,13 @@ Aplikasi di deploy pada platform cloud Streamlit dan file disimpan dalam platfor
 - Pillow
 - scipy
 - htbuilder
+
+# Link
+Link Demo Aplikasi
+https://bagusprakoso99-komawan-tugasbesar-10119-appstreamlit-app-tr8ulr.streamlit.app
+
+Link Repository File Aplikasi
+https://github.com/BagusPrakoso99/KOMAWAN_TUGASBESAR_10119045_10119048_10119179
+
+Link Persentasi Tugas Besar
+https://view.genial.ly/63ee2b901770b500113e33c5/dossier-tugas-besar-komputasi-awan
