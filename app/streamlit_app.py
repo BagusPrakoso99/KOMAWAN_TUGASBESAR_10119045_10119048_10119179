@@ -33,7 +33,8 @@ saver.restore(sess, 'mlmodels/ekspresi-wajah/model_6layers.ckpt')
 
 # Aplikasi Streamlit
 st.title("Aplikasi Pendeteksi Ekspresi Wajah")
-st.markdown("""Pilih Sumber Gambar pada sidebar,\n pilih Upload atau webcam(konfirmasi izin penggunaan webcam pada browser)""")
+st.markdown("""Pilih Sumber Gambar pada sidebar,
+               pilih Upload atau webcam(konfirmasi izin penggunaan webcam pada browser)""")
 st.markdown("Aplikasi dapat mendeteksi lebih dari satu wajah(maksimal 20 wajah)\n"
             "dan menampilkan hasil prediksi ekspresi dari setiap wajah")
 st.markdown("Pertama aplikasi akan mendeteksi wajah menggunakan OpenCV")
