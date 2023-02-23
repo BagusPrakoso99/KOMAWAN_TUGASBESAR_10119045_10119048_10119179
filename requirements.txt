@@ -3,7 +3,7 @@ numpy
 tensorflow-cpu
 opencv-python-headless
 matplotlib
-Pillow==8.1.1
+Pillow
 streamlit-webcam-example
 scipy
 htbuilder
