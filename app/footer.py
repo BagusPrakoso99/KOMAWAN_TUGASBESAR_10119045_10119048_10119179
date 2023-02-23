@@ -67,10 +67,7 @@ def layout(*args):
 
 def footer():
     myargs = [
-        "&nbsp&nbsp Dibuat Oleh : ",
-        br(),"&nbsp &nbsp 10119045 Fahma Maulana",
-        br(),"&nbsp &nbsp 10119048 Mochammad Faishal",
-        br(),"&nbsp &nbsp 10119179 Muhamad Bagus Prakoso",
+        "&nbsp&nbsp Dibuat Oleh : ","&nbsp &nbsp 10119045 Fahma Maulana","&nbsp &nbsp 10119048 Mochammad Faishal","&nbsp &nbsp 10119179 Muhamad Bagus Prakoso"
     ]
     layout(*myargs)
 
